@@ -1,0 +1,24 @@
+{
+    "documents": [
+        {
+            "fileName": "sample.pdf",
+            "url": "./sample.pdf",
+            "timeStamp": "1/2/2019"
+        },
+        {
+            "fileName": "sample.docx",
+            "url": "./sample.docx",
+            "timeStamp": "2/4/2020"
+        },
+        {
+            "fileName": "sample.xlsx",
+            "url": "./sample.xlsx",
+            "timeStamp": "6/4/2020"
+        },
+        {
+            "fileName": "sample.xlsm",
+            "url": "./sample.xlsm",
+            "timeStamp": "2/6/2020"
+        }
+    ]
+}
